@@ -31,4 +31,34 @@
     Number 字段可能获取不到，原因为运营商可能未将手机号码存储到sim卡内。
 
 
+## 开始监听短信内容
+```dart
+
+    final simCarInfoPlugin = SimCarInfoPlugin();
+
+    simCarInfoPlugin.startListen().listen((event) {
+
+        print("${event.slot}");
+        print("${event.senderNumber}");
+        print("${event.body}");
+        print("${event.timeReceived}");
+        print("${event.contactName}");
+
+    });
+    
+```
+
+## 停止监听短信内容
+```dart
+
+  @override
+  void dispose() {
+    super.dispose();
+    final simCarInfoPlugin = SimCarInfoPlugin();
+    simCarInfoPlugin.stopListen();
+  }
+  
+```
+
+
 
