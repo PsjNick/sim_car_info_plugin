@@ -1,0 +1,8 @@
+# This is a generated file; do not edit or check into version control.
+integration_test=/home/dg/flutter/packages/integration_test/
+permission_handler=/home/dg/.pub-cache/hosted/pub.dev/permission_handler-11.3.0/
+permission_handler_android=/home/dg/.pub-cache/hosted/pub.dev/permission_handler_android-12.0.5/
+permission_handler_apple=/home/dg/.pub-cache/hosted/pub.dev/permission_handler_apple-9.4.0/
+permission_handler_html=/home/dg/.pub-cache/hosted/pub.dev/permission_handler_html-0.1.1/
+permission_handler_windows=/home/dg/.pub-cache/hosted/pub.dev/permission_handler_windows-0.2.1/
+sim_car_info_plugin=/home/dg/AndroidStudioProjects/sim_car_info_plugin/

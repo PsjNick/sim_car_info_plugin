@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/android.iml" filepath="$PROJECT_DIR$/.idea/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1828135041/android.integration_test.iml" filepath="$PROJECT_DIR$/.idea/modules/1828135041/android.integration_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1828135041/android.integration_test.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1828135041/android.integration_test.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1828135041/android.integration_test.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1828135041/android.integration_test.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1828135041/android.integration_test.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1828135041/android.integration_test.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1988351174/android.permission_handler_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-1988351174/android.permission_handler_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1988351174/android.permission_handler_android.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1988351174/android.permission_handler_android.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1988351174/android.permission_handler_android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1988351174/android.permission_handler_android.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1988351174/android.permission_handler_android.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1988351174/android.permission_handler_android.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2103782614/android.sim_car_info_plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/2103782614/android.sim_car_info_plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2103782614/android.sim_car_info_plugin.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/2103782614/android.sim_car_info_plugin.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2103782614/android.sim_car_info_plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/2103782614/android.sim_car_info_plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2103782614/android.sim_car_info_plugin.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/2103782614/android.sim_car_info_plugin.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-747993534/gradle.iml" filepath="$PROJECT_DIR$/.idea/modules/-747993534/gradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-747993534/gradle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-747993534/gradle.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-747993534/gradle.test.iml" filepath="$PROJECT_DIR$/.idea/modules/-747993534/gradle.test.iml" />
+    </modules>
+  </component>
+</project>
